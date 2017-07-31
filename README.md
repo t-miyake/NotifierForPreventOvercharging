@@ -1,4 +1,4 @@
-# BattryAlert
+# Battry Alert
 ### Battry alert for prevent overcharging.
 
 
@@ -51,3 +51,12 @@ Right click on the task tray icon, the following is possible.
   - Show battery infomation：バッテリーの情報を表示します。  
   - Exit：アプリケーションを終了します。  
 
+
+- - -
+## ScreenShots
+
+![Screenshot](https://github.com/t-miyake/BattryAlert/blob/master/Screenshots/Notify.png)   
+
+![Screenshot](https://github.com/t-miyake/BattryAlert/blob/master/Screenshots/BatteryInfo.png)  
+  
+![Screenshot](https://github.com/t-miyake/BattryAlert/blob/master/Screenshots/TasktrayIcon.png)  
