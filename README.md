@@ -1,9 +1,9 @@
-# Battry Alert
-### Battry alert for prevent overcharging.
+# Battery Alert
+### Battery alert for prevent overcharging.
 
-You can download from the [release page](https://github.com/t-miyake/BattryAlert/releases).  
+You can download from the [release page](https://github.com/t-miyake/BatteryAlert/releases).  
 
-[リリースページ](https://github.com/t-miyake/BattryAlert/releases)からダウンロードできます。  
+[リリースページ](https://github.com/t-miyake/BatteryAlert/releases)からダウンロードできます。  
 
 ## Overview
 
