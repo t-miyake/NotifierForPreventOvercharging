@@ -24,6 +24,7 @@ namespace NotifierForPreventOvercharging
             DesignCapacity.Text = info.DesignedMaxCapacity.ToString("#,0") + " mWh";
             FullChargeCapacity.Text = info.FullChargeCapacity.ToString("#,0") + " mWh";
             CurrentCapacity.Text = info.CurrentCapacity.ToString("#,0") + " mWh";
+            BatteryVoltage.Text = info.Voltage.ToString("#,0") + " mv";
         }
     }
 }
