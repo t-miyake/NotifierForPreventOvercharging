@@ -24,7 +24,7 @@ With this application, you can prevent overcharging the battery.
 When you start this application, it resides in the task tray.  
 
 Right click on the task tray icon, the following is possible.  
-  - Show battery infomation: Displays battery information. 
+  - Show battery information: Displays battery information. 
   - Exit: Quits the application.  
 
 
@@ -51,7 +51,7 @@ Right click on the task tray icon, the following is possible.
 このアプリケーションを起動すると、タスクトレイに常駐します。  
 
 タスクトレイのアイコンを右クリックすると下記が可能です。  
-  - Show battery infomation：バッテリーの情報を表示します。  
+  - Show battery information：バッテリーの情報を表示します。  
   - Exit：アプリケーションを終了します。  
 
 
