@@ -1,9 +1,9 @@
-# Battery Alert
-### Battery alert for prevent overcharging.
+# Notifier for prevent overcharging
+### Notifier for battery overcharging prevention.
 
-You can download from the [release page](https://github.com/t-miyake/BatteryAlert/releases).  
+You can download from the [release page](https://github.com/t-miyake/NotifierForPreventOvercharging/releases).  
 
-[リリースページ](https://github.com/t-miyake/BatteryAlert/releases)からダウンロードできます。  
+[リリースページ](https://github.com/t-miyake/NotifierForPreventOvercharging/releases)からダウンロードできます。  
 
 ## Overview
 
