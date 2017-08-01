@@ -58,8 +58,8 @@ Right click on the task tray icon, the following is possible.
 - - -
 ## ScreenShots
 
-![Screenshot](https://github.com/t-miyake/BattryAlert/blob/master/Screenshots/Notify.png)   
+![Screenshot](https://github.com/t-miyake/NotifierForPreventOvercharging/blob/master/Screenshots/Notify.png)   
 
-![Screenshot](https://github.com/t-miyake/BattryAlert/blob/master/Screenshots/BatteryInfo.png)  
+![Screenshot](https://github.com/t-miyake/NotifierForPreventOvercharging/blob/master/Screenshots/BatteryInfo.png)  
   
-![Screenshot](https://github.com/t-miyake/BattryAlert/blob/master/Screenshots/TasktrayIcon.png)  
+![Screenshot](https://github.com/t-miyake/NotifierForPreventOvercharging/blob/master/Screenshots/TasktrayIcon.png)  
