@@ -1,13 +1,13 @@
 ﻿using System.Windows;
 
-namespace BattryAlert
+namespace NotifierForPreventOvercharging
 {
     /// <summary>
     /// BatteryInfomationWindow.xaml の相互作用ロジック
     /// </summary>
-    public partial class BatteryInfomationWindow : Window
+    public partial class BatteryInformationWindow : Window
     {
-        public BatteryInfomationWindow()
+        public BatteryInformationWindow()
         {
             InitializeComponent();
             UpdateInfomation();

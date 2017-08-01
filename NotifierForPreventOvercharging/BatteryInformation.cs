@@ -1,4 +1,4 @@
-﻿namespace BattryAlert
+﻿namespace NotifierForPreventOvercharging
 {
     public class BatteryInformation
     {

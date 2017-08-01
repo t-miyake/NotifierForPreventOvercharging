@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace BattryAlert
+namespace NotifierForPreventOvercharging
 {
     /// <summary>
     /// App.xaml の相互作用ロジック

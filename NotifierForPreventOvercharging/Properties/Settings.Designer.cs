@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BattryAlert.Properties
+namespace NotifierForPreventOvercharging.Properties
 {
 
 

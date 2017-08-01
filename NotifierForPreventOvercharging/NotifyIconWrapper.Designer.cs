@@ -1,4 +1,4 @@
-﻿namespace BattryAlert
+﻿namespace NotifierForPreventOvercharging
 {
     partial class NotifyIconWrapper
     {
@@ -32,16 +32,16 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NotifyIconWrapper));
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.toolStripMenuItem_Exit = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem_ShowBatteryInfo = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.toolStripMenuItem_Exit = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             // 
             // notifyIcon1
             // 
             this.notifyIcon1.ContextMenuStrip = this.contextMenuStrip1;
             this.notifyIcon1.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon1.Icon")));
-            this.notifyIcon1.Text = "Battry alert for prevent overcharging";
+            this.notifyIcon1.Text = "Notifier for battery overcharging prevention.";
             this.notifyIcon1.Visible = true;
             // 
             // contextMenuStrip1
@@ -52,24 +52,24 @@
             this.toolStripSeparator1,
             this.toolStripMenuItem_Exit});
             this.contextMenuStrip1.Name = "contextMenuStrip1";
-            this.contextMenuStrip1.Size = new System.Drawing.Size(282, 64);
-            // 
-            // toolStripMenuItem_Exit
-            // 
-            this.toolStripMenuItem_Exit.Name = "toolStripMenuItem_Exit";
-            this.toolStripMenuItem_Exit.Size = new System.Drawing.Size(281, 30);
-            this.toolStripMenuItem_Exit.Text = "Exit";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(288, 70);
             // 
             // toolStripMenuItem_ShowBatteryInfo
             // 
             this.toolStripMenuItem_ShowBatteryInfo.Name = "toolStripMenuItem_ShowBatteryInfo";
-            this.toolStripMenuItem_ShowBatteryInfo.Size = new System.Drawing.Size(281, 30);
-            this.toolStripMenuItem_ShowBatteryInfo.Text = "Show battery infomation";
+            this.toolStripMenuItem_ShowBatteryInfo.Size = new System.Drawing.Size(287, 30);
+            this.toolStripMenuItem_ShowBatteryInfo.Text = "Show battery information";
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(284, 6);
+            // 
+            // toolStripMenuItem_Exit
+            // 
+            this.toolStripMenuItem_Exit.Name = "toolStripMenuItem_Exit";
+            this.toolStripMenuItem_Exit.Size = new System.Drawing.Size(287, 30);
+            this.toolStripMenuItem_Exit.Text = "Exit";
             this.contextMenuStrip1.ResumeLayout(false);
 
         }

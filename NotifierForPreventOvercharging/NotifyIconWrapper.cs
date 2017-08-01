@@ -7,7 +7,7 @@ using Application = System.Windows.Application;
 using MessageBox = System.Windows.MessageBox;
 using MessageBoxOptions = System.Windows.MessageBoxOptions;
 
-namespace BattryAlert
+namespace NotifierForPreventOvercharging
 {
     public partial class NotifyIconWrapper : Component
     {
@@ -36,7 +36,7 @@ namespace BattryAlert
 
         private static void ToolStripMenuItem_ShowBatteryInfo_Click(object sender, EventArgs e)
         {
-            Window batteryInfomationWindow = new BatteryInfomationWindow();
+            Window batteryInfomationWindow = new BatteryInformationWindow();
             batteryInfomationWindow.WindowStartupLocation = WindowStartupLocation.CenterScreen;
             batteryInfomationWindow.Show();
         }
@@ -51,7 +51,7 @@ namespace BattryAlert
                 if (info.CurrentCapacity >= info.DesignedMaxCapacity * 0.95 || GetButteryPercentage() >= 95)
                 {
                     MessageBox.Show("Charging is completed. Please unplug the AC adapter.",
-                        "Charging Infomation",
+                        "Warning",
                         MessageBoxButton.OK, MessageBoxImage.Warning,
                         MessageBoxResult.OK,
                         MessageBoxOptions.ServiceNotification);

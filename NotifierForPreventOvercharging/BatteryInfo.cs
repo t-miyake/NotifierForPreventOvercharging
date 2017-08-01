@@ -2,7 +2,7 @@
 using System.IO;
 using System.Runtime.InteropServices;
 
-namespace BattryAlert
+namespace NotifierForPreventOvercharging
 {
     public static class BatteryInfo
     {
