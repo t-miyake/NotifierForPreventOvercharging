@@ -10,8 +10,6 @@ You can download from the [release page](https://github.com/t-miyake/NotifierFor
 Some Windows PCs and Windows tablets continue to charge even though charging is completed.  
 This will cause damage to the battery.  
 
-( For example, "GPD WIN" and "GPD Pocket" have this problem. )  
-
 So, this application will notify you when to end charging, that is, when you should disconnect the AC adapter.  
 
 Specifically, this application will notify you at one of the following timings.  
@@ -33,9 +31,7 @@ Right click on the task tray icon, the following is possible.
 ## 概要
 
 一部のWindows PCやWindowsタブレットは、充電が完了しているにもかかわらず、充電を続けてしまう機種があります。  
-それによって、バッテリーにダメージを与えてしまいます。  
-
-(例えば「GPD WIN」 や「GPD Pocket」には、この問題があります。)  
+それによって、バッテリーにダメージを与えてしまいます。   
 
 そこで、このアプリケーションは、充電を終了すべき時つまり、あなたがACアダプタを外すべき時に、あなたに通知します。  
 
